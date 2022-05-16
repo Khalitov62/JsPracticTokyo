@@ -1,0 +1,19 @@
+.container{
+    .row{
+        .buttons{
+            button{
+                border: 1px;
+            }
+        }
+    }
+}
+
+.buttons{
+    button:hover{
+        background-color: rgb(196, 196, 196);
+    }
+}
+
+.box1, .box2, .box3{
+    display: none;
+}
